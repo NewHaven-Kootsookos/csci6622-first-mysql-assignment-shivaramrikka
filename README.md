@@ -8,3 +8,4 @@ This contains all the CSCI6622 databases.
 If the database you need to use is the Northwind database, then your SQL file should start with
 
 `use northwind;`
+select * from category;
